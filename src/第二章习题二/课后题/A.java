@@ -1,4 +1,4 @@
-package 第二章课后;
+package 第二章习题二.课后题;
 
 public class A {
     //第三题B正确
